@@ -2,3 +2,10 @@
 }
 #photo2 { padding: 50px 50px 50px 50px;
 }
+#photo3 { padding: 50px 50px 50px 50px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
